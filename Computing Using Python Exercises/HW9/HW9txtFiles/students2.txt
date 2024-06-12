@@ -1,5 +1,0 @@
-['Walter Melon', 'melon@email.msmary.edu', '301-447-3141']
-['Warren Piece', 'piece@email.msmary.edu', '301-447-5926']
-['Winnie Bago', 'bago@email.msmary.edu', '301-447-5358']
-['Telly Vision', 'vision@email.msmary.edu', '301-447-9793']
-['Shirley Knot', 'knot@email.msmary.edu', '301-447-2384']
